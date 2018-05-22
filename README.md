@@ -8,14 +8,14 @@ Install ISO on your own USB (link)
 Disable Fast Boot In BIOS  
 
 # install Ubuntu
-[black screen]()
+[if you meet black screen problem(in Chinese, update it later)](ubuntu_black_screen(Chinese).md)
 
 ## check your driver and download it
 [for Titan Xp] http://www.nvidia.com/download/driverResults.aspx/128737/en-us
 
-'''bash
+```bash
 sudo bash filename.run
-'''
+```
 
 ## before you install Nvidia Driver
 [stop X sever](stop_X_service.md)
