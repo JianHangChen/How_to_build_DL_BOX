@@ -5,7 +5,23 @@ Download Ubuntu16.04 iso (link)
 
 Install ISO on your own USB (link) 
 
-Disable Fast Boot In BIOS  
+BIOS setup
+`F2` to access the BIOS,
+
+advanced mode, Disable Fast Boot In BIOS  
+
+boot bootdevice  uefi and
+boot from storage UEFI only 
+
+boot key management , mount usb
+save secure boot key 
+
+delete PK
+make sure secure boot state disabled
+
+
+exit and save 
+
 
 # install Ubuntu
 [if you meet black screen problem(in Chinese, update it later)](ubuntu_black_screen(Chinese).md)
