@@ -8,7 +8,7 @@ Install ISO on your own USB (link)
 Disable Fast Boot In BIOS  
 
 ## before you install Nvidia Driver
-[stop X sever](https://ericplayground.com/2017/09/26/how-to-stop-and-restart-an-x-server-on-ubuntu/)
+[stop X sever](stop_X_service.md)
 
 # optional:
 [How to mount the hard drive in computer directory as data folder](mount_harddrive_as_data.md)
