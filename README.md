@@ -7,4 +7,4 @@ Install USB (link)
 
 Disable Fast Boot In BIOS  
 
-[How to mount the harddrive in computer directory](How to mount the harddrive in computer directory? .md)
+[How to mount the harddrive in computer directory](How_to_build_DL_BOX/How to mount the harddrive in computer directory? .md)
