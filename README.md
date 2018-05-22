@@ -5,4 +5,6 @@ Download Ubuntu16.04 iso (link)
 
 Install USB (link) 
 
-Disable Fast Boot In BIOS
+Disable Fast Boot In BIOS  
+
+[How to mount the harddrive in computer directory](How to mount the harddrive in computer directory? .md)
